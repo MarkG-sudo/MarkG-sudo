@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on Carpooling app, Asthma monitoring app and an Advertisement Management platform<br>👯 I’m looking to collaborate on API development projects<br>🤝 I’m looking for help with  backend development<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about building sustainable digital products<br>⚡ Fun fact, I am a Writer with a Green Thumb
+<br>🔭 I’m currently working on a Carpooling app, an Asthma monitoring app and an Advertisement Management platform<br>👯 I’m looking to collaborate on API development projects<br>🤝 I’m looking for help with  backend development<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about building sustainable digital products<br>⚡ Fun fact, I am a Writer with a Green Thumb
 
 
 # 💻 Tech Stack:
